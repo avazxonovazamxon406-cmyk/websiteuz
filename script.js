@@ -1,0 +1,1 @@
+console.log("XanJanUZ Website ishga tushdi!");
